@@ -1,0 +1,6 @@
+{
+  "name": "Co-ops",
+  "tagline": "",
+  "body": "# discover-iot-sample\r\n\r\nSample application for connecting a smartphone to IBM IBM Watson IoT Platform.\r\n\r\n(https://discover-iot.mybluemix.net)\r\n\r\n[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/mmaiasouto/Co-Ops\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
