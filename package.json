@@ -1,9 +1,9 @@
 {
-  "name": "discover-iot-try",
-  "version": "0.0.1",
+  "name": "discover-iot",
+  "version": "1.0.1",
   "description": "Sample application for discover-try-buy IoT experience",
   "scripts": {
-    "start": "node app.js"
+    "start": "node-app.js"
   },
   "dependencies": {
     "body-parser": "^1.14.1",
